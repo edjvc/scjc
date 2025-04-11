@@ -5,7 +5,7 @@
 schema:
   schema_id: scjc
   name: 快樂倉頡
-  version: "0.0.2"
+  version: "0.0.3"
 
 switches:
   - name: ascii_mode
