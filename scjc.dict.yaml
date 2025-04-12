@@ -2,35 +2,23 @@
 #
 # 快樂倉頡輸入法 0.0.3
 # 網址:
-# 簡碼/詞組整理: 姜義德 Ed Chiang <ed_chiang.tw@proton.me>, 2024
+# 簡碼/詞組整理: 姜義德 Ed Chiang <ed.chiang.dev@proton.me>, 2024
 # 授權方式: GPL version 3
 #
-# 快樂倉頡為基於快倉六(麥志洪)重編簡碼、加入詞組輸入的改良型倉頡輸入法
+# 快樂倉頡為基於快倉六(麥志洪)，重編簡碼、加入詞組輸入功能之改良型倉頡輸入法
 #
-# ===============================================================
 # 快倉2000_快速倉頡輸入法第六代(v6.2.2)
 # 網址: http://www.scj2000.com
 # Copyright (C) 2002-2009 麥志洪 <makchehu@netvigator.com>
 # 授權方式: GPL version 3
 #
-# This program is free software; you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation; either version 3 of the License, or
-# (at your option) any later version.
+# 倉頡第三代、第五代
+# 倉頡輸入法發明人: 朱邦復 Chu Bong-Foo
+# 朱邦復工作室: http://www.cbflabs.com
+# 授權方式: Public Domain
 #
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License along
-# with this program; if not, write to the Free Software Foundation, Inc.,
-# 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
-#
-# * 2012-03-12  GONG Chen <chen.sst@gmail.com>
-#   - converted to Rime dictionary format
-#   - removed 'z' + Cantonese encoding
-# ===============================================================
+# 快樂倉頡詞組輸入之參考碼表: 五倉世紀版
+# 倉頡之友: www.chinesecj.com
 #
 
 ---
