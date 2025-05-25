@@ -1,6 +1,6 @@
 ﻿# encoding: utf-8
 #
-# 快樂倉頡輸入法 0.0.3
+# 快樂倉頡輸入法 0.0.4
 # 網址:
 # 簡碼/詞組整理: 姜義德 Ed Chiang <ed.chiang.dev@proton.me>, 2024
 # 授權方式: GPL version 3
@@ -1067,6 +1067,8 @@ max_phrase_length: 1
 其他	oth
 甚至	even
 停止	stop
+什麼	what
+怎麼	how
 饒舌	rap
 嘻哈	hiph
 哈哈	zhh

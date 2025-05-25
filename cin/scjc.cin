@@ -1,4 +1,4 @@
-# 快樂倉頡輸入法 0.0.3
+# 快樂倉頡輸入法 0.0.4
 # 網址:
 # 簡碼/詞組整理: 姜義德 Ed Chiang <ed.chiang.dev@proton.me>, 2024
 # 授權方式: GPL version 3
@@ -1096,6 +1096,8 @@ rock 搖滾
 oth 其他
 even 甚至
 stop 停止
+what 什麼
+how 怎麼
 rap 饒舌
 hiph 嘻哈
 zhh 哈哈
